@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kumar Prakhar</h1>
-<h3 align="center">Computer Science Engineer | Web Designer | Data Analysis Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist | Artificial Intelligence Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kumar-prakhar-8a745b16b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Kumar.Pakhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kumar prakhar" height="30" width="40" /></a>
@@ -15,8 +15,8 @@
 
 <p align="center">
   <em>
-    This is ME, Kumar Prakhar, a <b>second year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
-    A budding <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Designer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Kumar Prakhar, a <b>second year</b> student at <a href="https://www.northeastern.edu"> <b>Northeastern University</b>, Boston</a>. <br>
+    A budding <b>Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Designer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -30,9 +30,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Heart Health** Heart failiure prediction app<br>
-✔ I’m currently learning **Computer Vision** & **Deep Learning**<br>
-✔ I’m looking for help for learning **Neural Networks**<br>
+✔ I’m currently finetuning **Large Language Models**<br>
+✔ I’m currently learning **Computer Vision** & **NLP**<br>
+✔ I’m looking for help for learning **Transformers**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
@@ -73,7 +73,7 @@
 
 Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
 
-1. Create a *special* GitHub repository with your username as repository name. My username is `Akash-chowrasia` so my profile readme repository has the name `Akash-chowrasia`.
+1. Create a *special* GitHub repository with your username as repository name. My username is `kprakhar27` so my profile readme repository has the name `kprakhar27`.
 1. Add a `README.md` to this repository.
 1. Put some cool content about yourself (or anything you want) into `README.md`.
 
